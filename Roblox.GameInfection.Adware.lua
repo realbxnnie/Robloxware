@@ -1,5 +1,6 @@
 -- https://github.com/realbxnnie
 -- Put in StarterPlayer > StarterPlayerScripts
+-- LocalScript
 
 local passes = {
 	0, 1, 2, 3
